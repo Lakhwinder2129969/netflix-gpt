@@ -50,7 +50,7 @@ updateProfile(user, {
   // An error occurred 
   // ...
 });
-                console.log(user);
+                //console.log(user);
                 // ...
             })
             .catch((error) => {

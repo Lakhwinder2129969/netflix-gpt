@@ -5,7 +5,7 @@ import { addMovieTrailer } from '../utils/movieSlice';
 
 // In useMovieTrailer hook
 const useMovieTrailer = (newMovieId) => {
-  console.log("Movie ID received:", newMovieId); // Debug line
+  //console.log("Movie ID received:", newMovieId); // Debug line
   
   const dispatch = useDispatch();
   
